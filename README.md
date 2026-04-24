@@ -1,4 +1,4 @@
-# VibeSurf has an Arbitrary File Write(RCE) via via API
+# VibeSurf has an Arbitrary File Write(RCE) via API
 
 
 An authenticated arbitrary file write vulnerability exists in VibeSurf.
